@@ -1,4 +1,5 @@
-# Ryver - Logos
-This Repository is for reviewing Logos, that we received.
+# Ryver - Brand
+You will find Ryver's Brand Assets here.
 
-Website with Code: https://ryverlanguage.github.io/logos/
+Logo made by [Avyansh](https://github.com/Avyansh0001)
+
